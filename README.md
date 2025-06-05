@@ -28,9 +28,16 @@ This system demonstrates core Java principles like object-oriented programming, 
    ```bash
    git clone https://github.com/<your-username>/Library-Management-System.git
    cd Library-Management-System
+2. *Compile the source files*
+
+   javac *.java
+
+3. *Run the application*
+
+   java LibraryManagementSystem
 
    
-🧠 Concepts Used
+## 🧠 Concepts Used
 Classes and Objects
 
 Inheritance and Encapsulation
@@ -41,7 +48,7 @@ Console-based user interaction
 
 
 
-🛣 Future Possibilities
+## 🛣 Future Possibilities
 Connect to a real database (e.g., MySQL)
 
 Add user login/authentication
@@ -50,7 +57,7 @@ Implement a graphical interface
 
 
 
-🙋‍♂️ Who Can Use This?
+## 🙋‍♂️ Who Can Use This?
 This project is great for:
 
 Java beginners who want to practice OOP
