@@ -30,11 +30,11 @@ This system demonstrates core Java principles like object-oriented programming, 
    cd Library-Management-System
 2. *Compile the source files*
 
-   javac *.java
+   - javac *.java
 
 3. *Run the application*
 
-   java LibraryManagementSystem
+   - java LibraryManagementSystem
 
    
 ## 🧠 Concepts Used
